@@ -30,4 +30,4 @@
 
 > `5 hour`
 
-## Project 14 [Live Link](https://live-proj-14.netlify.app)
+## Project 14 [Live Link](https://dance-home-page.vercel.app)
