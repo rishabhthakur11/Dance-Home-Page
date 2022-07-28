@@ -14,7 +14,7 @@
 
 
 
-- Skills Gained in this project
+## Learning Outcome
   - Since this project is heavily based on positioning,
     Learned a lot about relative & absolute.
   - Learned to use **text-stroke-width** to create outline text effect.
