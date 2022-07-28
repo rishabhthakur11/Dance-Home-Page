@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 14
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
@@ -12,7 +12,7 @@
 
 > `Rishabh Thakur`
 
-## Project 14 [Live Link](https://live-proj-14.netlify.app)
+
 
 - Skills Gained in this project
   - Since this project is heavily based on positioning,
@@ -29,3 +29,5 @@
 ## Time taken to finish this project
 
 > `5 hour`
+
+## Project 14 [Live Link](https://live-proj-14.netlify.app)
