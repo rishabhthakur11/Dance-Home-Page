@@ -6,7 +6,7 @@
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--14-lightgrey)
 
-![name](https://img.shields.io/badge/Rishabh Thakur-lightgrey)
+![name](https://img.shields.io/badge/Rishabh-Thakur-lightgrey)
 
 ### Name:
 
