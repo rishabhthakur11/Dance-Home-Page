@@ -23,8 +23,9 @@
 ---
 
 #### Screenshot
+<img width="1439" alt="Screenshot 2022-08-19 at 3 19 05 PM" src="https://user-images.githubusercontent.com/74073486/185593123-bcc459a6-ace9-4094-9879-28f096c5d564.png">
 
-![Desktop](./assets/screencapture-127-0-0-1-5500-index-html-2022-07-28-23_16_14.png)
+
 
 ## Time taken to finish this project
 
